@@ -1,4 +1,4 @@
-# Example Mod
+# Argent's Scotchtape
 
 Template for making Babric mods for BTA!
 
