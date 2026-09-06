@@ -1,4 +1,4 @@
-# Argent's Scotchtape
+# Argent's Duct Tape
 
 Template for making Babric mods for BTA!
 
