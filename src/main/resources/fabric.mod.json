@@ -2,8 +2,8 @@
 	"schemaVersion": 1,
 	"id": "argentsducttape",
 	"version": "${version}",
-	"name": "Argent's Scotchtape",
-	"description": "This mod aims to help new BTA modders.",
+	"name": "Argent's Duct Tape",
+	"description": "Argent's random fixes for BTA.",
 	"authors": [
 		"ArgentVASIMR"
 	],
